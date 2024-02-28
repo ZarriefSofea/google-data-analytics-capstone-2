@@ -24,6 +24,6 @@ For this project, I use 12-months FitBit Fitness Tracker Data from January to De
 
 I'm using Python to load, clean, transform, analyze and visualize the data.
 
-## RProject HTML link
+## Python Project HTML link
 
 You may open this link [here](https://raw.githack.com/ZarriefSofea/google-data-analytics-capstone-2/main/Case2-Bellabeat%20(2).html)
